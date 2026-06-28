@@ -1,4 +1,4 @@
-\# FINN - AI Pentesting Co-pilot
+\ FINN - AI Pentesting Co-pilot
 
 
 
@@ -6,7 +6,7 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-\## Features
+\Features
 
 \- AI-powered pentesting guidance via Llama 3.3-70B (Groq API)
 
@@ -20,7 +20,7 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-\## Tech Stack
+\Tech Stack
 
 \- Python 3.11+
 
@@ -34,7 +34,7 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-\## Setup
+\Setup
 
 
 
@@ -62,7 +62,7 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-\## Commands
+\Commands
 
 | Command | Description |
 
