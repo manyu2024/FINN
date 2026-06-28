@@ -1,0 +1,14 @@
+venv/
+finn_sessions/
+.env
+__pycache__/
+*.txt
+*.png
+*.ico
+Modelfile
+Modelfile-simple
+finn_terminal.py
+finn_terminal(2).py
+finn_terminal(2) - Copy.py
+python_terminal(2).py
+original_code.txt
