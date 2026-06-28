@@ -1,7 +1,7 @@
 FINN - AI Pentesting Co-pilot
 
 
-
+Have you ever wanted an assistant that you can ask any question to, that is built with almost no restrictions and can answer any question, keep track of findings on bug bounties and help with CTF challenges. Meet FINN.
 FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant built for penetration testers. It combines LLM reasoning, persistent memory, and real-time web search to provide operational, contextual cybersecurity guidance.
 
 
