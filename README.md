@@ -1,4 +1,4 @@
-\ FINN - AI Pentesting Co-pilot
+FINN - AI Pentesting Co-pilot
 
 
 
@@ -6,39 +6,39 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-\Features
+Features
 
-\- AI-powered pentesting guidance via Llama 3.3-70B (Groq API)
+- AI-powered pentesting guidance via Llama 3.3-70B (Groq API)
 
-\- Persistent memory across sessions (user profile, goals, projects, findings)
+- Persistent memory across sessions (user profile, goals, projects, findings)
 
-\- Auto web search when AI hits knowledge limits
+- Auto web search when AI hits knowledge limits
 
-\- Operational context for commands (runtime, stealth level, prerequisites, alert triggers)
+- Operational context for commands (runtime, stealth level, prerequisites, alert triggers)
 
-\- Futuristic cyber terminal UI with typewriter effects and ASCII command boxes
-
-
-
-\Tech Stack
-
-\- Python 3.11+
-
-\- Groq API (Llama 3.3-70B)
-
-\- Rich + Colorama (Terminal UI)
-
-\- DuckDuckGo Search (ddgs)
-
-\- JSON persistent storage
+- Futuristic cyber terminal UI with typewriter effects and ASCII command boxes
 
 
 
-\Setup
+Tech Stack
+
+- Python 3.11+
+
+- Groq API (Llama 3.3-70B)
+
+- Rich + Colorama (Terminal UI)
+
+- DuckDuckGo Search (ddgs)
+
+- JSON persistent storage
 
 
 
-1\. Install dependencies:
+Setup
+
+
+
+1. Install dependencies:
 
 
 
@@ -46,7 +46,7 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-2\. Set your API key:
+2. Set your API key:
 
 
 
@@ -54,7 +54,7 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-3\. Run:
+3. Run:
 
 
 
@@ -62,21 +62,21 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 
 
-\Commands
+Commands
 
-| Command | Description |
 
-|---------|-------------|
 
-| /memory | Show stored memory |
 
-| /setgoal | Set career goal |
 
-| /multi | Multi-line input |
+/memory - Show stored memory 
 
-| /name | Update your name |
+/setgoal - Set career goal 
 
-| /forget | Clear all memory |
+/multi - Multi-line input 
 
-| /exit | Exit FINN |
+/name - Update your name 
+
+/forget - Clear all memory 
+
+/exit - Exit FINN 
 
