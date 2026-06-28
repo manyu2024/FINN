@@ -36,15 +36,29 @@ FINN (Forensic Intelligence Network Navigator) is a terminal-based AI assistant 
 
 \## Setup
 
-```bash
 
-pip install groq colorama rich ddgs
 
-export GROQ\_API\_KEY=your\_key\_here
+1\. Install dependencies:
 
-python finn\_terminal\_2.py
 
-```
+
+&#x20;   pip install groq colorama rich ddgs
+
+
+
+2\. Set your API key:
+
+
+
+&#x20;   set GROQ\_API\_KEY=your\_key\_here
+
+
+
+3\. Run:
+
+
+
+&#x20;   python finn\_terminal\_2.py```
 
 
 
